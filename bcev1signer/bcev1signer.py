@@ -84,7 +84,7 @@ def get_canonical_querystring(params):
         return ""
 
     # 除了authorization之外，所有的query string全部加入编码
-    result = ['%s=%s' % (k, normalize_string(v)) for k, v in params.items() if k.lower != AUTHORIZATION]
+    result = ['%s=%s' % (normalize_string(k), normalize_string(v)) for k, v in params.items() if k.lower != AUTHORIZATION]
 
     # 按字典序排序
     result.sort()
