@@ -1,7 +1,7 @@
 # 百度智能云API Demo
 
 ## Python
-[![image](https://img.shields.io/pypi/v/bcev1signer.svg)](https://pypi.org/project/acgv1signer/)
+![PyPI](https://img.shields.io/pypi/v/acgv1signer.svg)
 
 文件夹 acgv1signer 实现了百度智能云的V1鉴权方式(python)
 
