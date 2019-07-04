@@ -1,16 +1,16 @@
 # 百度智能云API Demo
 
 ## Python
-[![image](https://img.shields.io/pypi/v/bcev1signer.svg)](https://pypi.org/project/bcev1signer/)
+[![image](https://img.shields.io/pypi/v/bcev1signer.svg)](https://pypi.org/project/acgv1signer/)
 
-文件夹 bcev1signer 实现了百度智能云的V1鉴权方式(python)
+文件夹 acgv1signer 实现了百度智能云的V1鉴权方式(python)
 
 #### 安装
 ```
-pip install bcev1signer
+pip install acgv1signer
 ```
 #### 使用方式
-文件夹 bcev1signer 的子文件夹 examples 中包含了测试demo
+文件夹 acgv1signer 的子文件夹 examples 中包含了测试demo
 
 
 ## Java

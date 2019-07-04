@@ -1,6 +1,6 @@
 import requests
 from urllib.parse import urlparse
-from bcev1signer import *
+from acgv1signer import *
 import datetime
 import json
 

@@ -1,7 +1,7 @@
 import requests
 import json
 from urllib.parse import urlparse
-from bcev1signer import *
+from acgv1signer import *
 
 # 测试SMS发送短信接口：https://cloud.baidu.com/doc/SMS/API.html
 

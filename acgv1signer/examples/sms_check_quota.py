@@ -1,5 +1,5 @@
 import requests
-from bcev1signer import *
+from acgv1signer import *
 
 # 测试SMS发送短信配额接口：https://cloud.baidu.com/doc/SMS/API.html
 
